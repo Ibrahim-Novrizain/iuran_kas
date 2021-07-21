@@ -51,14 +51,10 @@ Sekarang buka browser dengan alamat address http://localhost:8080/
 
 
 
-[Dashboard][1](https://user-images.githubusercontent.com/81977333/126478057-7549f794-0ab6-4241-bd88-8e07e874f19c.png)
+[Dashboard]! ![1](https://user-images.githubusercontent.com/81977333/126478584-b551f162-7ef0-4a39-ad58-ebcd7834f346.png)
 
-[Warga][2](https://user-images.githubusercontent.com/81977333/126478125-7464d4f6-575d-441d-93c4-296f00fd565b.png)
-
-[Update][3](https://user-images.githubusercontent.com/81977333/126478172-6b72c5fc-441c-4a2f-8215-b3129737cb5c.png)
-
-[Delete][4](https://user-images.githubusercontent.com/81977333/126478192-2580498d-1bc9-4ae7-9be9-49a60586147a.png)
-
-[Iuran][5](https://user-images.githubusercontent.com/81977333/126478211-2a25d293-7cb9-4780-bdf0-77edafc33ca1.png)
-
-[Laporan][6](https://user-images.githubusercontent.com/81977333/126478233-d82f3545-f81a-43fd-b690-3c7cd79d5b9d.png)
+[Warga]![image](https://user-images.githubusercontent.com/81977332/126324070-381ecd38-36fe-4bc8-b25d-692ad6798d3f.png)
+[Update]![image](https://user-images.githubusercontent.com/81977332/126324153-2592c5fc-047d-4659-a233-0f4d23fb6aa7.png)
+[Delete]![image](https://user-images.githubusercontent.com/81977332/126324275-88ecbef6-d2b3-43f3-9298-2872a2f88ff6.png) 
+[Iuran]![image](https://user-images.githubusercontent.com/51916189/126337644-08be92d8-5b55-4626-8d91-f9568ff9bf3a.png)
+[Laporan]![image](https://user-images.githubusercontent.com/81977332/126368144-1736e74e-425f-4367-9a68-17cc44279b20.png)
